@@ -1,0 +1,14 @@
+{
+  "name": "telegram-kaios",
+  "version": "1.0.0",
+  "description": "Telegram client for KaiOS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jakub Janek <jakubjanek@protonmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "tdweb": "^1.6.0"
+  }
+}
